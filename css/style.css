@@ -1,0 +1,35 @@
+@media (min-width: 768px) {
+  .input-email {
+    width: 50%;
+  }
+}
+
+#logo {
+  width: 150;
+  height: 100;
+  border-radius: 5px;
+}
+
+#body::before {
+  display: block;
+  content: "";
+  height: 150px;
+}
+
+#body2::before {
+  display: block;
+  content: "";
+  height: 130px;
+}
+
+* {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.text-warning {
+  font-family: "Righteous", cursive;
+}
+.input-group,
+.form-group {
+  font-family: sans-serif;
+}
