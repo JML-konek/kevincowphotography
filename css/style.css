@@ -10,17 +10,17 @@
   border-radius: 5px;
 }
 
-#body::before {
-  display: block;
-  content: "";
-  height: 150px;
-}
+/* #body::before { */
+display: block;
+content: "";
+height: 150px;
+/* } */
 
-#body2::before {
-  display: block;
-  content: "";
-  height: 130px;
-}
+/* #body2::before { */
+display: block;
+content: "";
+height: 130px;
+/* } */
 
 * {
   font-family: "Bebas Neue", sans-serif;
